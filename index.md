@@ -1,6 +1,6 @@
 # Privacy Policy # 
 
-* University College London IRDR Centre for Digital Public Health in Emergencies (dPHE) built the My Lockdown Journal app as a Free app. This Service is provided by University College London IRDR dPHE at no cost and is intended for use as a journaling app during the COVID-19 lockdown and beyond, and provide vital information for  a COVID-19 research project investigating how people changed their lifestyle during the crises. The study received an ethical approval by UCL Institute for Risk and Disaster Reduction. 
+University College London IRDR Centre for Digital Public Health in Emergencies (dPHE) built the My Lockdown Journal app as a Free app. This Service is provided by University College London IRDR dPHE at no cost and is intended for use as a journaling app during the COVID-19 lockdown and beyond, and provide vital information for  a COVID-19 research project investigating how people changed their lifestyle during the crises. The study received an ethical approval by UCL Institute for Risk and Disaster Reduction. 
  
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -30,7 +30,7 @@ This Service contains links to other sites. If you click on a third-party link, 
 These Services do not address anyone under the age of 13. we do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
 # Changes to This Privacy Policy # 
-we may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. we will notify you of any changes by posting the new Privacy Policy on this page.
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. we will notify you of any changes by posting the new Privacy Policy on this page.
 This policy is effective as of 2020-05-10
 
 # Contact Us # 
