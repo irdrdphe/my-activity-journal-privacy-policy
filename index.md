@@ -21,15 +21,15 @@ If you choose to use the App, UCL will collect and use personal data in accordan
 
 ## The personal data we collect and use
 While using the App, we will require you to provide us with certain personally identifiable information, including but not limited to your: 
-*First Name
-*Email
-*Username
-*Password
-*Gender
-*Age
-*City
-*Country
-*App logs data including timestamp, actions, browser etc. 
+* First Name
+* Email
+* Username
+* Password
+* Gender
+* Age
+* City
+* Country
+* App logs data including timestamp, actions, browser etc. 
 
 The information we request will be used to create a user profile and will be retained by us and used as described in this Privacy Policy. 
  
@@ -47,9 +47,9 @@ Should you volunteer to participate in our online survey: “To Zoom or not to Z
 Your information is likely to be shared within the project team, primarily in a way that we can identify you as a participant. Any personal information used in research will have identifiers removed (making it anonymous) before sharing more widely or publishing the research outcomes.
 
 Pseudonymised data may be used for the purposes of:
-*App evaluation;
-*Education and research; or
-*Fundraising and promotional purposes.
+* App evaluation;
+* Education and research; or
+* Fundraising and promotional purposes.
 
 Only de-identified anonymous data will be used in published reports or journals and at conferences. Results of the study and analyses will be included in published international journal articles and conferences, seminars, workshops, websites, social media, newspaper articles, and future proposal bids. We will share the published results with users who provide us with a valid email address.
 
