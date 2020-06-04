@@ -46,6 +46,8 @@ For this App, personal data processing is required in order to create user profi
 Should you volunteer to participate in our online survey: “To Zoom or not to Zoom: How has your lifestyle changed during lockdown”, then your email address may be used to link your data sets, but your data will remain pseudonymised according to the privacy policies of both research projects.
 Your information is likely to be shared within the project team, primarily in a way that we can identify you as a participant. Any personal information used in research will have identifiers removed (making it anonymous) before sharing more widely or publishing the research outcomes.
 
+Your information is likely to be shared within the project team, primarily in a way that we can identify you as a participant. Any personal information used in research will have identifiers removed (making it anonymous) before sharing more widely or publishing the research outcomes.
+
 Pseudonymised data may be used for the purposes of:
 * App evaluation;
 * Education and research; or
@@ -56,13 +58,15 @@ Only de-identified anonymous data will be used in published reports or journals 
 ## Lawful basis for processing
 
 Data protection laws require us to meet certain conditions before we are allowed to use your data in the manner described in this notice, including having a ‘legal basis’ for the processing. Where we process special category personal data or criminal convictions information, we are required to establish an additional legal basis for processing that data.
+
 The main legal bases on which your personal data are generally processed for research purposes are explained below.
 For all information – as cited by Article 6(1)(e) of GDPR: 
-*Performance of a task in the public interest: when carrying out our core functions such as research, in addition to activities that are ancillary to our core functions, UCL will be performing a task in the public interest. For further details on the ‘public task’ legal basis for processing, please see our Statement of Tasks in the Public Interest.
+
+* Performance of a task in the public interest: when carrying out our core functions such as research, in addition to activities that are ancillary to our core functions, UCL will be performing a task in the public interest. For further details on the ‘public task’ legal basis for processing, please see our Statement of Tasks in the Public Interest.
 
 For special category data and information relating to criminal convictions/offences – as cited by Article 9(2)(j), based on Schedule 1, Para 4 of the Data Protection Act 2018:
 
-*Research purposes: in the context of research, the additional lawful basis upon which we will process your personal information is usually that the processing is necessary for archiving purposes, scientific or historical research purposes or statistical purposes.
+* Research purposes: in the context of research, the additional lawful basis upon which we will process your personal information is usually that the processing is necessary for archiving purposes, scientific or historical research purposes or statistical purposes.
 
 ## Data retention
 We ask our researchers to de-identify information wherever possible (anonymisation or pseudonymisation). Information where you can be identified will, as such, be kept for a minimum amount of time and in accordance with the research objectives. We may, however, keep consent forms which contain personal information for a number of years after the research has been completed, as this is sometimes a requirement of the research’s funder.
