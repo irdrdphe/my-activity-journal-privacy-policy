@@ -1,16 +1,16 @@
-# Welcome to the My Lockdown Journal App
+# Welcome to the My Activity Journal App
 
 Do you want to participate in COVID-19 research while having fun journaling?
 
-This app enables you to record and share the activities you have been doing during COVID-19 lockdown - to dedicate time to self-reflection and get inspired by new hobbies and interests. The app has been developed by UCL IRDR Centre for dPHE as a research project investigating how people’s lifestyles have changed during the crisis. The app is complemented by the #MyLockdownJournal competition on Twitter and Instagram - why not join in?
+This app enables you to record your daily activities undertaken during COVID-19 social distancing measures and lockdowns. It aims to encourage users to dedicate time to self-reflection and get inspired by new hobbies and interests. The app has been developed by UCL IRDR Centre for dPHE as a research project investigating how people’s lifestyles have changed during the crisis to inform public health policy and encourage positive wellbeing. The app is complemented by the #MyActivityJournal competition on Twitter and Instagram - why not join in?
 
-This first version was built as quickly as possible to allow you to start journaling and for UCL to begin collecting data for its research. We’re adding new features, improving artwork, introducing ratings and gamification of the features - stay tuned, enjoy the app and help COVID-19 research at UCL. 
+The app is being updated and improved by our team at UCL to facilitate collecting data for its research and improve the user experience. We’re adding new features, improving artwork, introducing ratings and gamification of the features - stay tuned, enjoy the app and help COVID-19 research at UCL. 
 
 If you have any questions or suggestions, we would be delighted to hear from you on irdr.dphe@ucl.ac.uk 
 
 ## Privacy Policy
 
-University College London IRDR Centre for Digital Public Health in Emergencies (hereafter referred to as “UCL IRDR”) has built the My Lockdown Journal App as a free App. This App is provided by UCL IRDR at no cost and is intended for use as a journaling app during the COVID-19 lockdown and beyond whilst allowing UCL IRDR to collect data and conduct research. UCL IRDR anticipate the app will provide vital information for their ongoing COVID-19 research projects investigating how people’s lifestyles have changed during the crisis. Medical content in the app, pertaining to FAQs on COVID-19, health and hygiene, has been provided by a project partner and public health education company: [Transmissible](https://transmissible.eu), Netherlands, adapting WHO FAQs. Project partners, such as Transmissible, may be granted access to anonymised data for research purposes. The study has received ethical approval by UCL Institute for Risk and Disaster Reduction.
+University College London IRDR Centre for Digital Public Health in Emergencies (hereafter referred to as “UCL IRDR”) has built the My Activity Journal App as a free App. This App is provided by UCL IRDR at no cost and is intended for use as a journaling app during the COVID-19 lockdowns and beyond whilst allowing UCL IRDR to collect data and conduct research. UCL IRDR anticipate the app will provide vital information for their ongoing COVID-19 research projects investigating how people’s lifestyles have changed during the crisis. Medical content in the app, pertaining to FAQs on COVID-19, health and hygiene, has been provided by a project partner and public health education company: [Transmissible](https://transmissible.eu), Netherlands, adapting WHO FAQs. Project partners, such as Transmissible, may be granted access to anonymised data for research purposes. The study has received ethical approval by UCL Institute for Risk and Disaster Reduction and UCL Ethics Committee, number 4147/002.
 
 University College London (“UCL”), a company incorporated by Royal Charter (number RC 000631), is the entity that determines how and why your personal data is processed. This means that UCL is the ‘controller’ of your personal data for the purposes of data protection law.
  
